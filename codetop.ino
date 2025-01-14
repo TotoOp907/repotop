@@ -1,5 +1,5 @@
 // Broche à laquelle la LED est connectée
-const int ledPin = 15;
+const int ledPin = 17;
 
 void setup() {
   // Configure la broche de la LED comme sortie
